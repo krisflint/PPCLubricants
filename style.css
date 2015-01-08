@@ -1,0 +1,12 @@
+/*---page wide styles----*/
+
+header {
+	width: 970px;
+	height: 100px;
+	background-color: gray;
+}
+#main {
+	width: 970px;
+	height: 500px;
+	background-color: black;
+}
